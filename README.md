@@ -7,7 +7,7 @@ python
 
 >>> from package import calculator as cl
 >>> cal = cl.calci(a=10 b=20)
->>> cal.addition()
->>> cal.subtraction()
+>>> cal.addition() # this is addition
+>>> cal.subtraction() # this is substraction
 '''
 Thanks for using my code :)
