@@ -11,3 +11,6 @@ class calci:
     
     def subtraction(self):
        return self.a - self.b 
+   
+    def multiplication(self):
+       return self.a * self.b 

@@ -8,3 +8,5 @@ cal = Calculator.calci(
 print(f"this is added value {cal.addition()}")
 
 print(f"this is subtracted value {cal.subtraction()}")
+
+print(f"this is multiplcation value {cal.multiplication()}")
